@@ -62,6 +62,8 @@ export default {
         this.getListData()
         console.log('添加路悠悠')
         console.log('第二次添加')
+        console.log('3.1')
+        console.log('3.2')
     }
 }
 </script>
