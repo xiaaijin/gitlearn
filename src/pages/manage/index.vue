@@ -64,6 +64,7 @@ export default {
         console.log('第二次添加')
         console.log('3.1')
         console.log('3.2')
+        console.log('测试从暂存区撤回')
     }
 }
 </script>
