@@ -60,6 +60,7 @@ export default {
      */
     created () {
         this.getListData()
+        console.log('添加路悠悠')
     }
 }
 </script>
