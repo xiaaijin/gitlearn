@@ -65,11 +65,9 @@ export default {
         console.log('3.1')
         console.log('3.2')
         console.log('测试从暂存区撤回')
-<<<<<<< HEAD
-        const le2 = '我在learn2上'
-=======
         console.log('在dev上创建的版本1')
->>>>>>> 在dev上创建的版本1
+        const le2 = '我在learn2上'
+        console.log('在dev上创建的版本1')
     }
 }
 </script>
