@@ -68,6 +68,7 @@ export default {
         console.log('在dev上创建的版本1')
         const le2 = '我在learn2上'
         console.log('在dev上创建的版本1')
+        const le2 = '我在learn2上222'
     }
 }
 </script>
